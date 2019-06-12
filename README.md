@@ -4,5 +4,4 @@
 [Baltic Summer School of Digital Humanities](http://www.digitalhumanities.lv/bssdh/2019/)
 
 *Essentials of Coding and Encoding*
-
-![Poster](http://site-512948.mozfiles.com/files/512948/medium/Digital_02.png | width 100)
+<img src="http://site-512948.mozfiles.com/files/512948/medium/Digital_02.png" width="200">
