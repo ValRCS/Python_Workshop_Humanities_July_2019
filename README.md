@@ -14,6 +14,7 @@
 
 #### Part I - Introduction to Python and Jupyter (90 mins)
 
+* why Python? Trends
 * setting up a working Python environment with Jupyter notebooks
 * Python Data Structures
 * Program Flow
@@ -22,16 +23,17 @@
 #### Part 2 90 mins
 
 * important Python libraries for analyzing textual content
-* importing and wrangling data
+* importing and wrangling data (how to obtain data)
 * analyzing data
 * data export and visualization.
 
 #### Part 3 90 mins
 
+* projects
 * 
 * 
 * 
-* 
+##### Bonus
 ##### Machine Learning approaches
 
 
