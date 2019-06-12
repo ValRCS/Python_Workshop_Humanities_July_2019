@@ -15,7 +15,7 @@
 * Program Flow
 * basic Functions.
 
-#### Part 90 mins
+#### Part 2 90 mins
 
 * important Python libraries for analyzing textual content
 * importing and wrangling data
