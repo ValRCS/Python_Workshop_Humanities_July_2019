@@ -5,4 +5,4 @@
 
 *Essentials of Coding and Encoding*
 
-![Poster](http://site-512948.mozfiles.com/files/512948/medium/Digital_02.png)
+![Poster](http://site-512948.mozfiles.com/files/512948/medium/Digital_02.png =100x20)
