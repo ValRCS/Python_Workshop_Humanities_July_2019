@@ -32,8 +32,11 @@
 * projects
 * 
 * 
-* 
+* further themese for research
 ##### Bonus
 ##### Machine Learning approaches
+* classification
+* clustering
+* sentiment analysis
 
 
