@@ -2,6 +2,7 @@
 ## Workshop - Language processing and data science with Python
 
 [Baltic Summer School of Digital Humanities](http://www.digitalhumanities.lv/bssdh/2019/)
+
 *Essentials of Coding and Encoding*
 
 
