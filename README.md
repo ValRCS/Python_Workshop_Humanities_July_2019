@@ -22,17 +22,18 @@
 
 #### Part 2 90 mins
 
-* important Python libraries for analyzing textual content
+* important Python libraries for analyzing textual content (NLTK)
 * importing and wrangling data (how to obtain data)
 * analyzing data
 * data export and visualization.
 
 #### Part 3 90 mins
 
-* projects
+* projects with NLTK
+*
 * 
-* 
-* further themese for research
+* further themes for research
+
 ##### Bonus
 ##### Machine Learning approaches
 * classification
