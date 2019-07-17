@@ -1,7 +1,7 @@
 # Python_Workshop_Humanities_July_2019
 ## Workshop - Language processing and data science with Python
 
-## Binder(cloud hosted Jupyter notebooks) Beta
+### Binder(cloud hosted Jupyter notebooks)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/Python_Workshop_Humanities_July_2019/master)
 
 [Baltic Summer School of Digital Humanities](http://www.digitalhumanities.lv/bssdh/2019/)
