@@ -25,10 +25,13 @@ Kind of dry and might not be best for beginners
 ## Jupyter Notebooks collection 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
-## Jupyter Tutorial
+## Jupyter Tutorials and Documentation
+* https://jupyter.org/documentation
 * https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 * https://realpython.com/jupyter-notebook-introduction/
+
 
 # Big List of Python books (freely available)
 
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html#python
+
