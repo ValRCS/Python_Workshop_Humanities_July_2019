@@ -33,8 +33,7 @@
 #### Part 3 90 mins
 
 * projects with NLTK
-*
-* 
+* other projects from beginner to intermediate 
 * further themes for research
 
 ##### Bonus
